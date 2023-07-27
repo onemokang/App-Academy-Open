@@ -22,4 +22,4 @@ It is also a part of the [p1xt guide](https://github.com/onemokang/p1xt-guides#t
 |  12 | GraphQL                                                                                                                                           |            |              |
 |  13 | Data Structures and Algorithms                                                                                                                    |            |              |
 
-[Link to the Curriculum](https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open)https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open)
+[Link to the Curriculum](https://open.appacademy.io/learn/full-stack-online/welcome-to-coding/welcome-to-app-academy-open)
