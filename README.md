@@ -3,8 +3,6 @@ App Academy’s entire 24 Week Online Software Engineering Program curriculum
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
-
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Welcome To Coding                                                                                                                                                     | In Progress           |              |
