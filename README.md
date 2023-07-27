@@ -5,7 +5,7 @@ It is also a part of the [p1xt guide](https://github.com/onemokang/p1xt-guides#t
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
+| Courses |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Lesson 00 - Welcome To Coding                                                                                                                                                     | In Progress           |              |
 | Lesson 01 - Intro to Programming                                                                                                                              |            |              |
