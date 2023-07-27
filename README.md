@@ -21,3 +21,5 @@ App Academy’s entire 24 Week Online Software Engineering Program curriculum
 | Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
+Course Link: https://www.appacademy.io/course/app-academy-open
