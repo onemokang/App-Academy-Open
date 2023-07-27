@@ -1,4 +1,4 @@
-## Welcome to Coding 
+# Welcome to Coding 
 ### Exercises
 
 <img src="./media/a-new-subreddit.png" width="750">
