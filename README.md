@@ -21,7 +21,5 @@ It is also a part of the [p1xt guide](https://github.com/onemokang/p1xt-guides#t
 |  11 | Docker                                                                                                                                            |            |              |
 |  12 | GraphQL                                                                                                                                           |            |              |
 |  13 | Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
  Link: https://www.appacademy.io//app-academy-open
