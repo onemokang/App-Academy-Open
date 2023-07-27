@@ -1,5 +1,5 @@
 # Welcome to Coding 
-### Exercises
+## Exercises
 
 <img src="./media/a-new-subreddit.png" width="750">
 <img src="./media/adding-subreddits.png" width="750">
