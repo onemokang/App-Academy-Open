@@ -1,7 +1,7 @@
 # App Academy Open
 ### Update: This curriculum was skipped because I took [Capital One Developer Academy](https://www.capitalonecareers.com/full-time-programs) (CODA)
 CODA is a six-month, intensive coding training that prepares analytical, non-computer science students for careers in software engineering.
-Skills I gained in COAD:
+Skills I gained in CODA:
 - Full-stack development like JavaScript, mobile, databases, cloud and API development
 - Automated testing, object oriented programming (OOP), and microservices
 - Other technologies like SQL, NodeJS, Angular, HTML, CSS, and more
