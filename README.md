@@ -1,4 +1,12 @@
 # App Academy Open
+## Update: This curriculum was skipped because I took Capital One Developer Academy (CODA).
+CODA is a six-month, intensive coding training that prepares analytical, non-computer science students for careers in software engineering.
+Skills I gained in COAD:
+- Full-stack development like JavaScript, mobile, databases, cloud and API development
+- Automated testing, object oriented programming (OOP), and microservices
+- Other technologies like SQL, NodeJS, Angular, HTML, CSS, and more
+
+
 This is App Academy’s Online Web Development Course.
 
 It is also a part of the [p1xt guide](https://github.com/onemokang/p1xt-guides#tier-0---web-development---fullstack-bootcamp---app-academy-open) I am currently following.
