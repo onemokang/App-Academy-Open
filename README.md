@@ -15,7 +15,7 @@ It is also a part of the [p1xt guide](https://github.com/onemokang/p1xt-guides#t
 
 | Courses |  Topic |  Status   |   Evidence   |
 | :----: | :-------- | :----------: | :----------: |
-|  00 | Welcome To Coding | In Progress           |              |
+|  00 | Welcome To Coding |           |              |
 |  01 | Intro to Programming  |            |              |
 |  02 | Software Engineering Foundations  |            |              |
 |  03 | Ruby |            |              |
