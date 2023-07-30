@@ -7,7 +7,7 @@ Skills I gained in COAD:
 - Other technologies like SQL, NodeJS, Angular, HTML, CSS, and more
 
 
-This is App Academy’s Online Web Development Course.
+## This is App Academy’s Online Web Development Course.
 
 It is also a part of the [p1xt guide](https://github.com/onemokang/p1xt-guides#tier-0---web-development---fullstack-bootcamp---app-academy-open) I am currently following.
 
